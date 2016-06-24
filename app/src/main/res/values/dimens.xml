@@ -14,4 +14,7 @@ http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
     <dimen name="widget_margin">8dp</dimen>
     <dimen name="graph_info_textSize">20sp</dimen>
     <dimen name="graph_heading_textSize">25sp</dimen>
+    <dimen name="padding_list_item_quote">16dp</dimen>
+    <dimen name="padding_bid_price">10sp</dimen>
+    <dimen name="padding_change">3dp</dimen>>
 </resources>

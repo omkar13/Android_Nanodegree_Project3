@@ -28,6 +28,7 @@
     <string name = "graph_period_month" translatable="false">month</string>
     <string name = "graph_period_week" translatable="false">week</string>
 
+    <string name="stock_absent_toast">This stock is already saved!</string>>
 
 </resources>
 
